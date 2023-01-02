@@ -23,4 +23,4 @@ The repository includes:
 
 ### License
 This code is licensed under the GPLv3.0 License.
-
+[![DOI](https://zenodo.org/badge/508345314.svg)](https://zenodo.org/badge/latestdoi/508345314)
